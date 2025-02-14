@@ -5,13 +5,13 @@
         {
             "title": "Earn Hints!",
             "image_path": "res://artwork/ui/buttons/HINT.png",
-            "subtext": "Spring is just around the corner! Get ready for Campaign 2 coming April 15th!"
+            "subtext": "Login with GameCenter! DENGEN is more fun with friends!"
         },
         
         {
             "title": "Earn Skips!",
             "image_path": "res://artwork/ui/buttons/SKIP.png",
-            "subtext": "Solve 3 free play puzzles in a row in 10s to earn skips."
+            "subtext": "240 new puzzles are available to play through in campaign mode."
         },
         
         {
