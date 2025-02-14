@@ -1,0 +1,28 @@
+{
+
+    "carousel" : [
+        
+        {
+            "text":"Test announcement 1",
+            "image": ""
+        },
+        {
+            "text":"This is the second announcement",
+            "image": ""
+        },
+        {
+            "text":"It might be good to have a third announcement",
+            "image": ""
+        },
+        {
+            "text":"A Third announcement might be great",
+            "image": ""
+        },
+        {
+            "text":"Test please good announcement, sir!",
+            "image": ""
+        }
+
+    ]
+
+}
