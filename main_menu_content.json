@@ -3,24 +3,32 @@
     "carousel" : [
         
         {
-            "text":"Test announcement 1",
-            "image": ""
+            "title": "Earn Hints!",
+            "image_path": "res://artwork/ui/buttons/HINT.png",
+            "subtext": "Score 8 or more in Gauntlet Mode to earn hints."
+        },
+        
+        {
+            "title": "Earn Skips!",
+            "image_path": "res://artwork/ui/buttons/SKIP.png",
+            "subtext": "Solve 3 free play puzzles in a row in 10s to earn skips."
+        },
+        
+        {
+            "title": "Campaign",
+            "image_path": null,
+            "subtext": "Challenge yourself! 24 new levels now in Adventure Mode."
+        },
+        
+        {
+            "title": "Daily Puzzle",
+            "image_path": null,
+            "subtext": "Play today's daily puzzle to keep up your streak!"
         },
         {
-            "text":"This is the second announcement",
-            "image": ""
-        },
-        {
-            "text":"It might be good to have a third announcement",
-            "image": ""
-        },
-        {
-            "text":"A Third announcement might be great",
-            "image": ""
-        },
-        {
-            "text":"Test please good announcement, sir!",
-            "image": ""
+            "title": "Campaign",
+            "image_path": null,
+            "subtext": "Thank you for playing DENGEN! Have fun!"
         }
 
     ]
