@@ -9,26 +9,26 @@
         },
         
         {
-            "title": "Earn Skips!",
+            "title": "Campaign",
             "image_path": "res://artwork/ui/buttons/SKIP.png",
-            "subtext": "240 new puzzles are available to play through in campaign mode."
+            "subtext": "200 new puzzles are available to play through in Campaign mode."
         },
         
         {
-            "title": "Campaign",
+            "title": "Challenge Yourself!",
             "image_path": null,
-            "subtext": "Challenge yourself! 24 new levels now in Adventure Mode."
+            "subtext": "Purchase Pro and play extreme puzzles in Brutal mode!"
         },
         
         {
             "title": "Daily Puzzle",
             "image_path": null,
-            "subtext": "Play today's daily puzzle to keep up your streak!"
+            "subtext": "Are you quicker than your friends? Play today's Daily Puzzle to find out!"
         },
         {
-            "title": "Campaign",
+            "title": "Free Play!",
             "image_path": null,
-            "subtext": "Thank you for playing DENGEN! Have fun!"
+            "subtext": "Earn hints and skips in free play!"
         }
 
     ]
