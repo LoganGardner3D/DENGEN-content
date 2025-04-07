@@ -9,26 +9,27 @@
         },
         
         {
-            "title": "Campaign",
-            "image_path": "res://artwork/ui/buttons/SKIP.png",
-            "subtext": "200 new puzzles are available to play through in Campaign mode."
-        },
-        
-        {
-            "title": "Challenge Yourself!",
+            "title": "Daily Puzzle Notice",
             "image_path": null,
-            "subtext": "Purchase Pro and play extreme puzzles in Brutal mode!"
+            "subtext": "Daily Puzzle Leaderboard is undergoing maintenance. Scores might not publish today, April 7th."
         },
-        
+
         {
-            "title": "Daily Puzzle",
+            "title": "Daily Puzzle Notice",
             "image_path": null,
-            "subtext": "Are you quicker than your friends? Play today's Daily Puzzle to find out!"
+            "subtext": "Daily Puzzle Leaderboard is undergoing maintenance. Scores might not publish today, April 7th."
         },
+
         {
-            "title": "Free Play!",
+            "title": "Daily Puzzle Notice",
             "image_path": null,
-            "subtext": "Earn hints and skips in free play!"
+            "subtext": "Daily Puzzle Leaderboard is undergoing maintenance. Scores might not publish today, April 7th."
+        },
+
+        {
+            "title": "Daily Puzzle Notice",
+            "image_path": null,
+            "subtext": "Daily Puzzle Leaderboard is undergoing maintenance. Scores might not publish today, April 7th."
         }
 
     ]
