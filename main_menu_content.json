@@ -3,15 +3,15 @@
     "carousel" : [
         
         {
-            "title": "Earn Hints!",
+            "title": "Pick A New Username!",
             "image_path": "res://artwork/ui/buttons/HINT.png",
-            "subtext": "Login with GameCenter! DENGEN is more fun with friends!"
+            "subtext": "You can change your Username in the Settings page!"
         },
         
         {
-            "title": "Campaign",
+            "title": "Play With Friends?",
             "image_path": "res://artwork/misc/PNG/YELLOW_STAR.png",
-            "subtext": "200 new puzzles are available to play through in Campaign mode."
+            "subtext": "DENGEN for Android is just around the corner."
         },
         
         {
@@ -23,7 +23,7 @@
         {
             "title": "Daily Puzzle",
             "image_path": null,
-            "subtext": "Are you quicker than your friends? Play today's Daily Puzzle to find out!"
+            "subtext": "Check out our global leaderboard at www.dengen.net!"
         },
         {
             "title": "Free Play!",
